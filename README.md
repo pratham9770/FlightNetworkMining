@@ -1,2 +1,3 @@
 # FlightNetworkMining
 Real-Time Flight Analysis using  Spark Graphx 
+The project utilizes Apache Spark and GraphFrames to analyze flight data and apply graph algorithms. By processing flight data from a CSV file, the project performs graph-based computations using algorithms such as PageRank and Connected Components to identify important airports, discover patterns in flight routes, and uncover hidden connections within the network. These graph algorithms enable us to gain valuable insights into the connectivity, traffic flow, and overall structure of the flight network. The results are visualized, providing a comprehensive understanding of the underlying graph dynamics in the aviation industry.
